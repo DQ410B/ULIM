@@ -2,7 +2,6 @@
 
 Source-only distribution of the **D method** for private influence maximization in sampled linear-threshold graphs. Two native C++ processes execute the two-party protocol using the standard-OT backend and local parallel OT hashing.
 
-[中文说明](README_中文.md)
 
 ## Build
 
