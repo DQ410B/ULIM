@@ -1,0 +1,17 @@
+/build/
+/build-*/
+/run/
+/runs/
+/data/
+/inputs/
+/bundles/
+*.bin
+*.csv
+*.log
+*.zip
+*.tar.gz
+__pycache__/
+*.pyc
+/core
+/core.*
+.DS_Store

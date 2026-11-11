@@ -1,0 +1,18 @@
+set(ULIM_AVAILABLE_PROFILES
+  n17_L9_k1
+  n17_L9_k2
+  n17_L9_k3
+  n17_L9_k5
+  n17_L9_k10
+  n112_L64_k1
+  n112_L64_k2
+  n112_L64_k3
+  n112_L64_k5
+  n112_L64_k10
+  n32_L32_k10
+  n64_L32_k10
+  n112_L32_k10
+  n475_L32_k10
+  n1005_L32_k10
+  n7115_L32_k10
+)
